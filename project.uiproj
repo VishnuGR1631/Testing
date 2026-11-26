@@ -1,0 +1,6 @@
+{
+  "Name": "Excel Mail And PDF",
+  "ProjectType": "Process",
+  "Description": "Excel Mail And PDF Automation",
+  "MainFile": "Main.xaml"
+}
